@@ -1,0 +1,90 @@
+@import url("https://fonts.googleapis.com/css2?family=Dongle:wght@700&family=Varela+Round&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Dongle:wght@700&family=Varela+Round&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600;700&family=Dongle:wght@700&family=Varela+Round&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600;700&family=Dongle:wght@700&family=Varela+Round&display=swap");
+.bg-nav {
+  background-color: #f0b6d5;
+}
+
+.font-nav {
+  font-family: "Dongle", sans-serif;
+  font-family: "Varela Round", sans-serif;
+}
+
+.btn-fancy {
+  border-radius: 18px;
+  width: 150px;
+}
+
+.gap-1 {
+  gap: 2rem;
+}
+
+.nav-icon {
+  height: 60px;
+  border-radius: 38px;
+}
+
+.nav-font-icon {
+  font-family: "Dancing Script", cursive;
+  font-family: "Dongle", sans-serif;
+  font-family: "Varela Round", sans-serif;
+  margin: 11px;
+}
+
+.banner {
+  width: 100%;
+  height: 100%;
+}
+
+.banner-img {
+  height: 281px;
+  width: 324px;
+  border-radius: 414px;
+}
+
+.banner-p {
+  font-size: 17px;
+  margin-left: 30%;
+  margin-right: 30%;
+  padding: 13px;
+}
+
+.home {
+  height: 500px;
+  width: 100%;
+  background-color: #f0b6d5;
+}
+
+.home-text {
+  font-family: "Dancing Script", cursive;
+  font-family: "Dongle", sans-serif;
+  font-family: "Varela Round", sans-serif;
+}
+.home-img {
+  height: 223px;
+  border-radius: 300px;
+  margin-right: 50px;
+  margin-top: 50px;
+}
+
+.home-content {
+  padding: 20px;
+}
+
+.workout {
+  width: 100%;
+  height: 1005;
+}
+
+.skinAndhair-h {
+  padding: 100px;
+}
+
+.skinAndhair-img {
+  height: 500px;
+}
+.skinAndhair-img-sm {
+  height: 300px;
+  border-radius: 181px;
+}
